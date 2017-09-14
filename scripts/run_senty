@@ -1,0 +1,3 @@
+#!/bin/sh
+
+python senty/tools/Senty.py -p senty_conf/xmls/007_008-014_CX5/packages.xml -s senty_conf/xmls/007_008-014_CX5/setup.xml 
